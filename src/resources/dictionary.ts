@@ -2019,6 +2019,32 @@ const germanExam: DictionaryResource[] = [
   },
 ]
 
+// 上海教育出版社
+const szExam: DictionaryResource[] = [
+  {
+    id: 'sz-a002',
+    name: '深圳小学-二年级上单词',
+    description: '上海教育出版社单词-二年级上',
+    category: '上海',
+    tags: ['二年级上'],
+    url: '/dicts/xiaoxue/test.json',
+    length: 19,
+    language: 'en',
+    languageCategory: 'en',
+  },
+  {
+    id: 'sz-b002',
+    name: '深圳小学-二年级下单词',
+    description: '上海教育出版社单词-二年级下',
+    category: '上海',
+    tags: ['二年级下'],
+    url: '/dicts/xiaoxue/test.json',
+    length: 19,
+    language: 'en',
+    languageCategory: 'en',
+  },
+]
+
 /**
  * Built-in dictionaries in an array.
  * Why arrays? Because it keeps the order across browsers.
@@ -2030,7 +2056,7 @@ export const dictionaryResources: DictionaryResource[] = [
   ...programming,
   ...japaneseExam,
   ...germanExam,
-
+  ...szExam,
   // {
   //   id: 'zhtest',
   //   name: '中文测试',

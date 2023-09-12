@@ -1,0 +1,159 @@
+[
+	{
+		"name": "good",
+		"trans": [
+			"好的111"
+		],
+		"usphone": "ɡʊd",
+		"ukphone": "ɡʊd"
+	},
+	{
+		"name": "morning",
+		"trans": [
+			"早晨",
+			"上午"
+		],
+		"usphone": "ˈmɔrnɪŋ",
+		"ukphone": "ˈmɔːnɪŋ"
+	},
+	{
+		"name": "afternoon",
+		"trans": [
+			"下午"
+		],
+		"usphone": "ˌæftərˈnun",
+		"ukphone": "ˌɑːftəˈnuːn"
+	},
+	{
+		"name": "evening",
+		"trans": [
+			"傍晚",
+			"晚上"
+		],
+		"usphone": "ˈivnɪŋ",
+		"ukphone": "ˈiːvnɪŋ"
+	},
+	{
+		"name": "night",
+		"trans": [
+			"夜晚"
+		],
+		"usphone": "naɪt",
+		"ukphone": "naɪt"
+	},
+	{
+		"name": "day",
+		"trans": [
+			"白天",
+			"一天"
+		],
+		"usphone": "deɪ",
+		"ukphone": "deɪ"
+	},
+	{
+		"name": "mum",
+		"trans": [
+			"妈妈"
+		],
+		"usphone": "mʌm",
+		"ukphone": "mʌm"
+	},
+	{
+		"name": "today",
+		"trans": [
+			"今天"
+		],
+		"usphone": "təˈdeɪ",
+		"ukphone": "təˈdeɪ"
+	},
+	{
+		"name": "very",
+		"trans": [
+			"很",
+			"非常"
+		],
+		"usphone": "ˈveri",
+		"ukphone": "ˈveri"
+	},
+	{
+		"name": "well",
+		"trans": [
+			"好"
+		],
+		"usphone": "wɛl",
+		"ukphone": "wɛl"
+	},
+	{
+		"name": "ant",
+		"trans": [
+			"蚂蚁"
+		],
+		"usphone": "ænt",
+		"ukphone": "ænt"
+	},
+	{
+		"name": "bear",
+		"trans": [
+			"熊"
+		],
+		"usphone": "bɛr",
+		"ukphone": "bɛər"
+	},
+	{
+		"name": "tall",
+		"trans": [
+			"高的"
+		],
+		"usphone": "tɔːl",
+		"ukphone": "tɔːl"
+	},
+	{
+		"name": "short",
+		"trans": [
+			"矮的"
+		],
+		"usphone": "ʃɔːrt",
+		"ukphone": "ʃɔːt"
+	},
+	{
+		"name": "boy",
+		"trans": [
+			"男孩"
+		],
+		"usphone": "bɔɪ",
+		"ukphone": "bɔɪ"
+	},
+	{
+		"name": "girl",
+		"trans": [
+			"女孩"
+		],
+		"usphone": "ɡɜːrl",
+		"ukphone": "ɡɜːrl"
+	},
+	{
+		"name": "big",
+		"trans": [
+			"大的"
+		],
+		"usphone": "bɪɡ",
+		"ukphone": "bɪɡ"
+	},
+	{
+		"name": "small",
+		"trans": [
+			"小的"
+		],
+		"usphone": "smɔːl",
+		"ukphone": "smɔːl"
+	},
+	{
+		"name": "no",
+		"trans": [
+			"不",
+			"不是"
+		],
+		"usphone": "noʊ",
+		"ukphone": "nəʊ"
+	}
+]
